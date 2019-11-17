@@ -1,0 +1,10 @@
+/home/ghazanfer/train/cat.0.jpg	0
+/home/ghazanfer/train/cat.1.jpg	0
+/home/ghazanfer/train/cat.2.jpg	0
+/home/ghazanfer/train/cat.3.jpg	0
+/home/ghazanfer/train/cat.4.jpg	0
+/home/ghazanfer/train/dog.0.jpg	1
+/home/ghazanfer/train/dog.1.jpg	1
+/home/ghazanfer/train/dog.2.jpg	1
+/home/ghazanfer/train/dog.3.jpg	1
+/home/ghazanfer/train/dog.4.jpg	1
